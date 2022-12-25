@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -27,6 +27,7 @@ form button {
   font-size: 2rem;
   border: none;
   background: white;
+  outline: none;
 }
 form button {
   color: #ff6f47;
@@ -137,4 +138,4 @@ select {
 .select:hover::after {
   transform: scale(1.5);
 }
-*/
+ */
